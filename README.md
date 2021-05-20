@@ -3,4 +3,4 @@
 
 #IMPORTANT
 The datasheet for Siemens motor can be found at:
-IDP_2_Assignment_2/1LE1501-2DD23-3YA5_datasheet_en
+IDP_2_Assignment_2/1LE1501-2DD23-3YA5_datasheet_en.pdf
